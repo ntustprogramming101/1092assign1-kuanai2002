@@ -65,6 +65,7 @@ void draw() {
  
  //robot
  image(robot,robotX+160,robotY);
+ //
  
  
 }
