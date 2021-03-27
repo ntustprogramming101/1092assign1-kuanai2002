@@ -54,9 +54,9 @@ void draw() {
  //sun
  noStroke();
  fill(255,255,0);
- circle(590,50,130);
+ ellipse(590,50,130,130);
  fill(253,184,19);
- circle(590,50,120);
+ ellipse(590,50,120,120);
  
  //soldier
  image(soldier,soldierX-80,soldierY);
